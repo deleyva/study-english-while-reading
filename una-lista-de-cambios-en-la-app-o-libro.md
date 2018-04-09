@@ -16,3 +16,4 @@
 
 * Introduced animals into the world, we believe they're going to be a neat addition.
 
+{% include "git+https://github.com/catedu/faq-aularagon.git/imagenes_creditos.md" %}
