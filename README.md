@@ -6,7 +6,7 @@ description: Explico lo que me ha motivado ha escribir esta documentación
 
 ## El editor online va rapidíiiisimo
 
-... y es muy intuitivo.
+... y es muy intuitivo. Aunque no veo por ningún lado la exportación a pdf, epub y mobi
 
 Esto es una tabla de ejemplo
 
