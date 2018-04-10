@@ -6,7 +6,7 @@ description: Explico lo que me ha motivado ha escribir esta documentación
 
 ## El editor online va rapidíiiisimo
 
-... y es muy intuitivo. Pero le faltan cosas.
+... y es muy intuitivo.
 
 Esto es una tabla de ejemplo
 
@@ -48,6 +48,14 @@ print('Hello World!')
 
 
 
+
+{% hint style="warning" %}
+bueno
+
+asdfasdf
+
+asdf
+{% endhint %}
 
 
 
