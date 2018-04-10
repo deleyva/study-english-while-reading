@@ -10,9 +10,9 @@ description: Explico lo que me ha motivado ha escribir esta documentación
 
 Esto es una tabla de ejemplo
 
-| Cabecera de tabla | puedes añadir imágenes |  |  |  |
+| Cabecera de tabla | puedes añadir imágenes |  | hola |  |
 | --- | --- |
-| ![](.gitbook/assets/english.png) | Están muy buen las tablas | y es super fácil hacerlas |  |  |
+| ![](.gitbook/assets/english.png) | Están muy buen las tablas | y es super fácil hacerlas | ![](.gitbook/assets/hojascalc.pdf) | ![](.gitbook/assets/creative-common.svg) |
 
 ```aspnet
 $ give me super-powers
@@ -55,6 +55,12 @@ bueno
 asdfasdf
 
 asdf
+{% endhint %}
+
+{% hint style="success" %}
+asdfa
+
+asdfasdfsa
 {% endhint %}
 
 
